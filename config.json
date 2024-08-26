@@ -1,4 +1,10 @@
 {
-    "thumbnail_url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/thumbnail/thumbnail.gif",
-    "image_url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/image/image.gif"
+    "thumbnail": {
+        "enabled": true,
+        "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/thumbnail/thumbnail.gif"
+    },
+    "image": {
+        "enabled": true,
+        "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/image/image.gif"
+    }
 }
