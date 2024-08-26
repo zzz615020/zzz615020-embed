@@ -1,10 +1,10 @@
 {
     "thumbnail": {
-        "enabled": True,
+        "enabled": true,
         "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/thumbnail/thumbnail.gif"
     },
     "image": {
-        "enabled": False,
+        "enabled": false,
         "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/image/image.gif"
     }
 }
