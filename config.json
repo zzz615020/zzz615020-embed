@@ -1,6 +1,6 @@
 {
     "thumbnail": {
-        "enabled": false,
+        "enabled": true,
         "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/thumbnail/thumbnail.gif"
     },
     "image": {
