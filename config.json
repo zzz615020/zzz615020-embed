@@ -4,11 +4,11 @@
         "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/thumbnail/thumbnail.gif"
     },
     "image": {
-        "enabled": false,
+        "enabled": true,
         "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/image/image.gif"
     },
     "footer": {
-        "enabled": true,
+        "enabled": false,
         "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/thumbnail/thumbnail.gif"
     }
 }
