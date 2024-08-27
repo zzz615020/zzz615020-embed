@@ -1,7 +1,7 @@
 {
     "web_1": "https://discord.com/api/webhooks/1253854496635748382/6rBip5FibwFPJVjMSnoJya5BCJtF4YQMOUTMsDkt_4ztzFWbNy464zZCdtm0UJ5tkVDF",
     "thumbnail": {
-        "enabled": true,
+        "enabled": false,
         "url": "https://raw.githubusercontent.com/rvlzxcero/rvlzxcero-embed/main/embed-2/thumbnail/thumbnail.gif"
     },
     "image": {
