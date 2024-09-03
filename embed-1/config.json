@@ -1,0 +1,14 @@
+{
+    "thumbnail": {
+        "enabled": false,
+        "url": "https://raw.githubusercontent.com/zzz615020/zzz615020-embed/main/embed-1/thumbnail/thumbnail.gif"
+    },
+    "image": {
+        "enabled": false,
+        "url": "https://raw.githubusercontent.com/zzz615020/zzz615020-embed/main/embed-1/thumbnail/thumbnail.gif"
+    },
+    "footer": {
+        "enabled": true,
+        "url": "https://raw.githubusercontent.com/zzz615020/zzz615020-embed/main/embed-1/thumbnail/thumbnail.gif"
+    }
+}
