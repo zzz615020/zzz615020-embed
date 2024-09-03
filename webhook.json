@@ -3,6 +3,6 @@
     "web_2": "https://discord.com/api/webhooks/1278969499608940605/ImDChoB4qH6xBGV0axfZlqJlQYGf3-X7yep-VIriIpXN12NnqNI8ebPNvGvXPUpfQo9Q",
     "web_3": "https://discord.com/api/webhooks/1278969785358487604/TIWOVi7pb3hT3R0yFaVzW-RqzzjOgE06zSrvmxWBhlFoEVhF1xfiQYHEoL-Ce21yXPt4",
     "webhook": {
-        "enabled": false
+        "enabled": true
     }
 }
